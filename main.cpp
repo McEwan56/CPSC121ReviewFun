@@ -1,3 +1,4 @@
+//McEwan B - CPSC 121 Review
 #include "vecFuncs.h"
 
 int main() {
