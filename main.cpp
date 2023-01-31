@@ -9,5 +9,6 @@ int main() {
 
   //Task 1: define and call a func that finds the smallest and largest values in the vector
   findExtremes(min, max, userNums);
-  //Task 2: Convert to the 3 file format
+  //Task 2: Convert to the 3 file format 
+    //Task 2 complete
 }
